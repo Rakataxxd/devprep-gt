@@ -6,7 +6,7 @@ La primera plataforma de preparacion para entrevistas tecnicas disenada para dev
 
 ---
 
-## Que hace
+## Que hace c:
 
 - **Documento de preparacion personalizado** — Sube tu CV y recibe una guia 100% basada en tu perfil: pitch, stack, proyectos, salario en quetzales y mas.
 - **Simulacion de entrevista** — Practica con Marcos Fuentes, un entrevistador IA con 8 anos de experiencia en el mercado tech guatemalteco.
